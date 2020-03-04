@@ -9,19 +9,24 @@ Create a page to list all pokemons
 Create a page to list details of selected pokemon
 
 
-Primeira versão.
+First version.
 
-O básico do desafio está pronto. Está listando todos os pokemons, e qualquer Pokemon que você clicar será redirecionado para a página da descrição do pokemon, foto, etc...
-
-Ps: Projeto todo responsivo, foi utilizado bootstrap(framework html&css) junto ao react
+The challange basics is ready. Is listing all pokemons, and any Pokemon you click will be redirected to the pokemon description page with photo, atack, height,  etc ...
 
 
-Passos para funcionar o código
-
-1# Baixar o codigo do repositorio
-2# rodar 'npm install' na pasta raiz do projeto para instalar o node_modules
-3# rodar 'npm start' para inicializar o projeto. Utilizar a porta 3000
-4# Caso não abra soziho é só entrar no http://localhost:3000/ para testar a aplicação
+Ps: The project is all responsive. Bootstrap (html & css framework) was used with react
 
 
-Projeto será atualizado para ter a busca por id, nome ou habilidade
+
+Steps to run the project
+
+1# Download the code from my repo
+
+2# run 'npm install' on the root folder of the project to install the node_modules
+
+3# run 'npm start' to start the project. Use port 3000 (CORS solved)
+
+4# In case that project don't standalone open on browser, you can go with http://localhost:3000/ to test the application
+
+
+Project will be updated to search by id, name or abilties.
