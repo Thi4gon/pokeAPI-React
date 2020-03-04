@@ -1,0 +1,12 @@
+.App{
+    padding-top: 4rem;
+    min-height: 100vh;
+}
+
+.navbar{
+background-color: #fafafa !important;
+}   
+
+#NavName{
+    color: black;
+}
